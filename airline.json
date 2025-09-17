@@ -1,0 +1,82 @@
+{
+    "name": "Saudi Arabian Airlines (Saudia)",
+    "color": "#006c35",
+    "bgcolor": "#f5f5f5",
+    "aircrafts": {
+        "239": {
+            "name": "Airbus a350-900",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "2973": {
+            "name": "Airbus a350-1000",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "2856": {
+            "name": "Airbus a330-200",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "4631": {
+            "name": "Airbus a330-900neo",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "25": {
+            "name": "Boeing b777-300ER",
+            "liveries": ["Saudia"],
+            "labels": ["Specular shader", "Texture"]
+        },
+        "3054": {
+            "name": "Boeing b737-800",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "2769": {
+            "name": "Boeing b737-MAX8",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "3575": {
+            "name": "Boeing b787-9",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "3180": {
+            "name": "Boeing b787-10",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "5086": {
+            "name": "Airbus a321-211",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "4646": {
+            "name": "Airbus a321neo",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "3534": {
+            "name": "Airbus a320-214",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "2871": {
+            "name": "Airbus a320neo",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "2899": {
+            "name": "Airbus a220-300",
+            "liveries": ["Saudia"],
+            "labels": ["Texture"]
+        },
+        "2418": {
+            "name": "ATR 72-600",
+            "liveries": ["Saudia Regional"],
+            "labels": ["Texture"]
+        }
+    }
+}
