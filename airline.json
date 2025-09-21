@@ -26,7 +26,7 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": ["Saudia"],
-            "labels": ["Specular shader", "Texture"]
+            "labels": ["Specular shader", "https://ibb.co/jkmcGHgp"]
         },
         "3054": {
             "name": "Boeing b737-800",
