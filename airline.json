@@ -5,8 +5,8 @@
     "aircrafts": {
         "239": {
             "name": "Airbus a350-900",
-            "liveries": ["Saudia"],
-            "labels": ["Texture"]
+            "liveries": ["Saudia Retro"],
+            "labels": ["file:///C:/Users/Anwender/Pictures/BCO.3f721fff-7673-4205-b3f3-ed63a8867b1b.png"]
         },
         "2973": {
             "name": "Airbus a350-1000",
