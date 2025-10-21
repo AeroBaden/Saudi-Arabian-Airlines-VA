@@ -6,7 +6,14 @@
         "239": {
             "name": "Airbus a350-900",
             "liveries": ["Saudia Retro"],
-            "labels": ["file:///C:/Users/Anwender/Pictures/BCO.3f721fff-7673-4205-b3f3-ed63a8867b1b.png"]
+  "name": "Saudi Arabian Airlines (Saudia) Retro (Planned Livery)",
+  "credits": "AeroBaden",
+  "texture": [
+    "/models/aircraft/premium/a350/specular.jpg",
+    "https://i.ibb.co/pj44SFvR/BCO-3f721fff-7673-4205-b3f3-ed63a8867b1b.png"
+  ],
+  "materials": {}
+}
         },
         "2973": {
             "name": "Airbus a350-1000",
