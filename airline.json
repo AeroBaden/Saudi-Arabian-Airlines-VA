@@ -3,17 +3,15 @@
     "color": "#006c35",
     "bgcolor": "#f5f5f5",
     "aircrafts": {
+        "10": {
+            "name": "Airbus a380-800",
+            "liveries": ["Saudia"],
+            "labels": ["Normal map", "Specular shader", "Texture"]
+        },
         "239": {
             "name": "Airbus a350-900",
             "liveries": ["Saudia Retro"],
-  "name": "Saudi Arabian Airlines (Saudia) Retro (Planned Livery)",
-  "credits": "AeroBaden",
-  "texture": [
-    "/models/aircraft/premium/a350/specular.jpg",
-    "https://i.ibb.co/pj44SFvR/BCO-3f721fff-7673-4205-b3f3-ed63a8867b1b.png"
-  ],
-  "materials": {}
-}
+            "labels": ["https://raw.githubusercontent.com/AeroBaden/Saudi-Arabian-Airlines-VA/refs/heads/main/BCO.3f721fff-7673-4205-b3f3-ed63a8867b1b.png"]
         },
         "2973": {
             "name": "Airbus a350-1000",
@@ -35,6 +33,11 @@
             "liveries": ["Saudia"],
             "labels": ["Specular shader", "Texture"]
         },
+        "237": {
+            "name": "Boeing b767-300ER",
+            "liveries": ["Saudia (Historic)"],
+            "labels": ["Texture"]
+        },
         "3054": {
             "name": "Boeing b737-800",
             "liveries": ["Saudia"],
@@ -54,6 +57,16 @@
             "name": "Boeing b787-10",
             "liveries": ["Saudia"],
             "labels": ["Texture"]
+        },
+        "5193": {
+            "name": "Boeing b747-8I",
+            "liveries": ["Saudia (Historic Cargo/Passenger)"],
+            "labels": ["Texture", "Wing texture"]
+        },
+        "5038": {
+            "name": "Lokheed L1011-1 TriStar",
+            "liveries": ["Saudia (Historic)"],
+            "labels": ["Texture", "Metallic Roughness shader", "Texture for tail light"]
         },
         "5086": {
             "name": "Airbus a321-211",
