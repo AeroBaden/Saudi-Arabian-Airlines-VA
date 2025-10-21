@@ -11,8 +11,9 @@
         "239": {
             "name": "Airbus a350-900",
             "liveries": ["Saudia Retro"],
+             "labels": "https://raw.githubusercontent.com/AeroBaden/Saudi-Arabian-Airlines-VA/refs/heads/main/BCO.3f721fff-7673-4205-b3f3-ed63a8867b1b.png"
             /models/aircraft/premium/a350/specular.jpg
-            "labels": ["https://raw.githubusercontent.com/AeroBaden/Saudi-Arabian-Airlines-VA/refs/heads/main/BCO.3f721fff-7673-4205-b3f3-ed63a8867b1b.png"]
+           
         },
         "2973": {
             "name": "Airbus a350-1000",
